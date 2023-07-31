@@ -1,0 +1,30 @@
+h1{
+    font-weight: 900;
+    color: #4a148c;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-weight: normal;
+    color: #e3f2fd;
+}
+
+
+p {
+    color:#fff8e1;
+}
+
+
+blockquote {
+    color:#c51162;
+    border-left: 10px solid #6a1b9a;
+}
+
+
+.menu{
+    padding-top: 30px;
+}
+
+
+.section-study-content {
+    padding: 100px;
+}
